@@ -1,2 +1,2 @@
 import streamlit
-steamlit.title('Hellow orld!')
+streamlit.title('Hellow orld!')
